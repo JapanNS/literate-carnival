@@ -22,7 +22,7 @@ public class Average {
 
         }
         double avg =(num/n);
-        System.out.println("Average: " + avg);
+        System.out.println("Average is test: " + avg);
 
     }
 }
